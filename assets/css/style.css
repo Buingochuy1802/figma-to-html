@@ -72,6 +72,11 @@ a{
 .header{
     background-color: beige;
 }
+.header.fixed{
+    position: sticky;
+    top: -28px;
+}
 .header .action{
     margin-left: 49px;
 }
+/* main  */
